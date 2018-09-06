@@ -13,5 +13,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://gyzdgh.github.io/project-react"
+  "homepage": "https://gyzdgh.github.io/project-react/build"
 }
